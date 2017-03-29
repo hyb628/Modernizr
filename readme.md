@@ -1,5 +1,7 @@
 # Modernizr [![Build Status](https://api.travis-ci.org/Modernizr/Modernizr.svg?branch=master)](https://travis-ci.org/Modernizr/Modernizr) [![Inline docs](https://inch-ci.org/github/Modernizr/Modernizr.svg?branch=master)](https://inch-ci.org/github/Modernizr/Modernizr)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/hyb628/Modernizr.svg)](https://greenkeeper.io/)
+
 ##### Modernizr is a JavaScript library that detects HTML5 and CSS3 features in the user’s browser.
 
 - [Website](https://modernizr.com)
